@@ -1,0 +1,29 @@
+
+.big-cats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.cat {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.cat img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.cat h2 {
+  margin-top: 10px;
+  font-size: 1.5rem;
+}
+
+.cat p {
+  color: #666;
+}
+
